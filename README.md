@@ -95,6 +95,6 @@ A short and simple permissive license with conditions only requiring preservatio
 # Acknowledgments 
 * **[Clerk](https://clerk.com)** for authentication
 * **[Convex](https://convex.dev)** f8or backend services
-* **[ShadCN](https://ui.shadcn.com)* for UI components
+* **[ShadCN](https://ui.shadcn.com)** for UI components
 * **[Tailwind CSS](https://tailwindcss.com)** for styling
 * **[Webhooks](https://webhook.site/)** for workflow automation
