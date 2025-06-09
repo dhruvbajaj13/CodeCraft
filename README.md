@@ -18,61 +18,62 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 * **Workflow Automation:** Webhook Integration
 * **Themes & Styling::** VSCode-inspired themes
 
-
 # Getting Started
 ### 1. **Clone the repository**
 
-bash
+```bash
 git clone https://github.com/your-username/splitr.git
 cd splitr
-
+```
 
 ### 2. **Install dependencies**
-bash
+```bash
 npm install
-
+```
 
 ### 3. **Set up environment variables**
 
 Create a .env file in the root directory and add the required environment variables:
 
-env
+```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 CONVEX_DEPLOYMENT=
 NEXT_PUBLIC_CONVEX_URL=
-
+```
 > Replace the values with your actual *Clerk* and *Convex* credentials.
 
 ### 4. **Run the development server**
 
-bash
+```bash
 npm run dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running.
+
 
 # Contributing
 1. **Fork** this repository
 2. **Clone** your forked repo
 
-   bash
+   ```bash
    git clone https://github.com/your-username/splitr.git
-   
+   ```
 3. **Create a new branch**
 
-   bash
+   ```bash
    git checkout -b feature/your-feature-name
-   
-4. **Make your changes* and *commit**
+   ```
+4. **Make your changes** and **commit**
 
-   bash
+   ```bash
    git commit -m "Add: Your meaningful commit message"
-   
+   ```
 5. **Push** to your branch
 
-   bash
+   ```bash
    git push origin feature/your-feature-name
-   
+   ```
 6. **Open a Pull Request** – Go to the original repo and submit a PR!
 
 # License
