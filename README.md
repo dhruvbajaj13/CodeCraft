@@ -16,7 +16,7 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 * **Backend:** Convex 
 * **Authentication:** Clerk
 * **Workflow Automation:** Webhook Integration
-* **Themes & Styling::** VSCode-inspired themes
+* **Themes & Styling:** VSCode-inspired themes
 
 # Getting Started
 ### 1. **Clone the repository**
@@ -94,7 +94,7 @@ A short and simple permissive license with conditions only requiring preservatio
 
 # Acknowledgments 
 * **[Clerk](https://clerk.com)** for authentication
-* **[Convex](https://convex.dev)** f8or backend services
+* **[Convex](https://convex.dev)** for backend services
 * **[ShadCN](https://ui.shadcn.com)** for UI components
 * **[Tailwind CSS](https://tailwindcss.com)** for styling
 * **[Webhooks](https://webhook.site/)** for workflow automation
