@@ -2,8 +2,8 @@
 CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stack including Next.js 15, Convex, Clerk, and TypeScript. It delivers a seamless, customizable coding environment right in the browser with multi-language support, VSCode-inspired themes, real-time output feedback, and execution history tracking. Designed to boost developer productivity and collaboration, it also features advanced search and filtering, webhook integrations, and flexible Free & Pro plans.
 
 # Features
-* **💻 Multi-Language Support** – Write and execute code in 10 popular programming languages with syntax highlighting.
-* **🎨 Customizable Themes** – Choose from 5 VSCode-inspired themes to personalize your coding experience.
+* **💻 Multi-Language Support** – Write and execute code in 10+ popular programming languages with syntax highlighting.
+* **🎨 Customizable Themes** – Choose from 5+ VSCode-inspired themes to personalize your coding experience.
 * **✨ Real-Time Feedback** – Instant success and error messages for efficient debugging.
 * **💾 Code Snippets** –  Save, manage, and share reusable code snippets effortlessly.
 * **💎 Pro Plan** – Unlock advanced features and enhanced capabilities with flexible Free & Pro pricing.
