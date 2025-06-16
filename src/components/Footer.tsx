@@ -1,30 +1,50 @@
-import { Blocks } from "lucide-react";
 import Link from "next/link";
+import { Github, Twitter, Zap } from "lucide-react";
 
-function Footer() {
+const Footer = () => {
   return (
-    <footer className="relative border-t border-gray-800/50 mt-auto">
-      <div className="absolute inset-x-0 -top-px h-px bg-gradient-to-r from-transparent via-gray-900 to-transparent" />
-      <div className="max-w-7xl mx-auto px-4 py-8">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2 text-gray-400">
-            <Blocks className="size-5" />
-            <span>Built for developers, by developers</span>
+    <footer className="relative w-full bg-[#0b0b11] text-gray-400 border-t border-gray-800 pt-5 pb-6 px-6 mt-">
+      {/* Gradient Ring Glow */}
+      <div className="absolute -top-10 left-1/2 -translate-x-1/2 h-40 w-40 rounded-full bg-gradient-to-r from-blue-500/20 to-purple-500/20 blur-3xl opacity-20 pointer-events-none" />
+
+      <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
+        {/* Left - Branding */}
+        <div className="flex items-center gap-4">
+          <div className="p-2 rounded-xl bg-gradient-to-br from-blue-600 to-purple-500 shadow-md">
+            <Zap className="w-5 h-5 text-white" />
           </div>
-          <div className="flex items-center gap-6">
-            <Link href="/support" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Support
-            </Link>
-            <Link href="/privacy" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Privacy
-            </Link>
-            <Link href="/terms" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Terms
-            </Link>
+          <div>
+            <h1 className="text-white text-xl font-bold">CodeCraft</h1>
+            <p className="text-sm text-gray-500">Build. Run. Share.</p>
           </div>
         </div>
+
+        {/* Center - Command style nav */}
+        <div className="flex flex-wrap justify-center gap-6 text-lg font-medium">
+          <Link href="/snippets" className="hover:text-white  cursor-pointer hover:underline transition">Snippets</Link>
+          <Link href="/docs" className="hover:text-white cursor-pointer hover:underline  transition">Docs</Link>
+          <Link href="/changelog" className="hover:text-white  cursor-pointer hover:underline transition">Changelog</Link>
+          <Link href="/pricing" className="hover:text-white  cursor-pointer hover:underline transition">Pricing</Link>
+        </div>
+
+        {/* Right - Socials */}
+        <div className="flex items-center gap-4">
+          <a href="https://github.com" target="_blank" className="hover:text-white transition">
+            <Github size={18} />
+          </a>
+          <a href="https://twitter.com" target="_blank" className="hover:text-white transition">
+            <Twitter size={18} />
+          </a>
+        </div>
+      </div>
+
+      {/* Bottom Line */}
+      <div className="mt-4 text-center text-md text-gray-600">
+        © {new Date().getFullYear()} CodeCraft 
       </div>
     </footer>
   );
-}
+};
+
 export default Footer;
+
