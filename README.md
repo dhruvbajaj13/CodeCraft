@@ -18,6 +18,10 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 * **Workflow Automation:** Webhook Integration
 * **Themes & Styling:** VSCode-inspired themes
 
+# Demo
+
+* **[Live Demo](https://code-craft-two-livid.vercel.app/):** Check out the live version of CodeCraft to see its features in action.
+
 # Getting Started
 ### 1. **Clone the repository**
 
