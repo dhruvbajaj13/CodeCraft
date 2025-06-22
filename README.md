@@ -32,8 +32,8 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/splitr.git
-cd splitr
+git clone https://github.com/your-username/codecraft.git
+cd codecraft
 ```
 
 ### 2. **Install dependencies**
@@ -67,7 +67,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 2. **Clone** your forked repo
 
    ```bash
-   git clone https://github.com/your-username/splitr.git
+   git clone https://github.com/your-username/codecraft.git
    ```
 3. **Create a new branch**
 
