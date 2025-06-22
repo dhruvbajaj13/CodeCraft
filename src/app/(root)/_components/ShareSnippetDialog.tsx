@@ -1,11 +1,13 @@
-import { useCodeEditorStore } from "@/store/useCodeEditorStore";
-import { useMutation } from "convex/react";
-import { useState } from "react";
-import { api } from "../../../../convex/_generated/api";
-import { X } from "lucide-react";
-import toast from "react-hot-toast";
+"use client";
 
-function ShareSnippetDialog({ onClose }: { onClose: () => void }) {
+import { useCodeEditorStore } from '@/store/useCodeEditorStore';
+import { useMutation } from 'convex/react';
+import React, { useState } from 'react'
+import { api } from '../../../../convex/_generated/api';
+import toast from 'react-hot-toast';
+import { X } from 'lucide-react';
+
+const ShareSnippetDialog = ({onClose}: {onClose: () => void}) => {
   const [title, setTitle] = useState("");
   const [isSharing, setIsSharing] = useState(false);
   const { language, getCode } = useCodeEditorStore();
@@ -78,4 +80,5 @@ function ShareSnippetDialog({ onClose }: { onClose: () => void }) {
     </div>
   );
 }
-export default ShareSnippetDialog;
+
+export default ShareSnippetDialog
