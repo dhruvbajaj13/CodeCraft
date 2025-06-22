@@ -15,6 +15,7 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 * **Frontend:** Next.js 15, TypeScript, Tailwind CSS, ShadCN UI
 * **Backend:** Convex 
 * **Authentication:** Clerk
+* **Payments:** Lemon Squeezy(Subscription Management & Payment Processing)
 * **Workflow Automation:** Webhook Integration
 * **Themes & Styling:** VSCode-inspired themes
 
