@@ -3,15 +3,18 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 
 # Screenshots
 
-[Screenshot 2025-06-22 203214](https://github.com/user-attachments/assets/3c5a1111-e8e6-44b4-8fc5-d113d6d50747)
+<!-- Row 1 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c5a1111-e8e6-44b4-8fc5-d113d6d50747" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7cea81c2-caf4-49e4-b6ec-8b538fb0107c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b0e4e450-b639-4394-b5ad-60db5af2cd92" width="200"/>
+</p>
 
-[Screenshot 2025-06-22 203304](https://github.com/user-attachments/assets/7cea81c2-caf4-49e4-b6ec-8b538fb0107c)
-
-![Screenshot 2025-06-22 203614](https://github.com/user-attachments/assets/b0e4e450-b639-4394-b5ad-60db5af2cd92)
-
-![Screenshot 2025-06-22 203338](https://github.com/user-attachments/assets/fa07cd34-521b-4a0e-bb42-4b49f335a176)
-
-![Screenshot 2025-06-22 203700](https://github.com/user-attachments/assets/60a9f7f4-f60f-4a4c-836d-6c94a70698b2)
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa07cd34-521b-4a0e-bb42-4b49f335a176" width="200"/>
+  <img src="https://github.com/user-attachments/assets/60a9f7f4-f60f-4a4c-836d-6c94a70698b2" width="200"/>
+</p>
 
 # Features
 
