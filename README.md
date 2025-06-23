@@ -12,8 +12,8 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 
 <!-- Row 2 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa07cd34-521b-4a0e-bb42-4b49f335a176" width="400"/>
-  <img src="https://github.com/user-attachments/assets/60a9f7f4-f60f-4a4c-836d-6c94a70698b2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fa07cd34-521b-4a0e-bb42-4b49f335a176" width="300"/>
+  <img src="https://github.com/user-attachments/assets/60a9f7f4-f60f-4a4c-836d-6c94a70698b2" width="300"/>
 </p>
 
 # Features
