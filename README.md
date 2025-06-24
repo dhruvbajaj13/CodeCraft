@@ -48,8 +48,8 @@ CodeCraft is a powerful Online Code Editor and IDE built with a modern tech stac
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/codecraft.git
-cd codecraft
+git clone https://github.com/your-username/CodeCraft.git
+cd CodeCraft
 ```
 
 ### 2. **Install dependencies**
@@ -83,7 +83,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 2. **Clone** your forked repo
 
    ```bash
-   git clone https://github.com/your-username/codecraft.git
+   git clone https://github.com/your-username/CodeCraft.git
    ```
 3. **Create a new branch**
 
