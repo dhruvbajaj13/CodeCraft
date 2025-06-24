@@ -123,4 +123,5 @@ A short and simple permissive license with conditions only requiring preservatio
 * **[Convex](https://convex.dev)** for backend services
 * **[ShadCN](https://ui.shadcn.com)** for UI components
 * **[Tailwind CSS](https://tailwindcss.com)** for styling
+* **[Lemon Squeezy](https://www.lemonsqueezy.com/)** for payment processing
 * **[Webhooks](https://webhook.site/)** for workflow automation
